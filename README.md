@@ -88,6 +88,6 @@ It focuses on translating data into actionable business insights rather than pur
 
 
 ## Author
-Created by **[Daniel Maher]**  
+Created by **Daniel Maher**  
 Background: Applied Mathematics  
 Skills: Excel, Power Query, SQL, Power BI, Python
