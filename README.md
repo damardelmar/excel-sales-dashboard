@@ -8,6 +8,10 @@ The dashboard enables analysis of revenue trends, product performance, and custo
 
 ---
 
+![Sales Dashboard](dashboard_screenshot.png)
+
+---
+
 ## Dataset
 The analysis is based on a retail dataset containing:
 - Transactions
@@ -68,7 +72,7 @@ KPIs update automatically when data is refreshed.
 ---
 
 ## Files in This Repository
-- `sales_dashboard.xlsx` – Excel file with Power Query model and interactive dashboard
+- `excel_portfolio.xlsx` – Excel file with Power Query model and interactive dashboard
 - `dashboard_screenshot.png` – Preview of the final dashboard
 - `README.md` – Project documentation
 
@@ -83,7 +87,7 @@ This project reflects real-world tasks performed by:
 It focuses on translating data into actionable business insights rather than purely technical implementation.
 
 
-## 👤 Author
-Created by **[Twoje imię i nazwisko]**  
+## Author
+Created by **[Daniel Maher]**  
 Background: Applied Mathematics  
 Skills: Excel, Power Query, SQL, Power BI, Python
